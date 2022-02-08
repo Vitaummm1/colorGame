@@ -14,6 +14,10 @@ let score = 0;
 highScoreStatus.innerHTML = highScore;
 scoreStatus.innerHTML = score;
 
+for(let color of colors){
+    color.style.backgroundColor = 'white';
+}
+
 const gameStart = () => {
     let r = randParam();
     let g = randParam();
