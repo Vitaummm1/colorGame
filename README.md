@@ -18,8 +18,7 @@
 <p>This is how this project came about.</p>
 </section>
 <h2>Demo</h2>
-<p align="center"><div><img src="colorGuessing.gif" alt="A demonstration of game running"></div></p>
-<br>
+<p><div><img src="colorGuessing.gif" alt="A demonstration of game running"></div></p>
 <p>I started by doing the basic programming of the code: I added the elements in the HTML, programmed the game start function and the game end function.</p>
 <p>Then I added the HTML element and coding for the punctuation, followed by customizing the style, in the CSS file.</p>
 <p>Finally, I added criteria to decrease the range of different colors as the score increased.</p>
